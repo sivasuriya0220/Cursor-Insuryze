@@ -32,6 +32,22 @@
   }
 }
 
+.hero-section {
+  background-image: url('./Assets/Images/c28ce6bad5e271a1e390830d7818ab7c05f44caa.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.overlay {
+  border-image :
+    linear-gradient(
+      hsla(216, 100%, 9%, 0.75),
+      hsla(216, 100%, 9%, 0.75))
+fill 1;
+}
+
 .innovation-section {
   background: #0052CC;
 }
