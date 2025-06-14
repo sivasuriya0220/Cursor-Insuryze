@@ -119,11 +119,13 @@ fill 0.5;
   }
   .cta-section {
     position: static;
-    width: 92vw;
     max-width: 100%;
     border-radius: 1.25rem;
     transform: none;
     margin-top: 2rem;
+    left: 5%;
+    right: 5%;
+    width: auto !important;
   }
 }
 
@@ -177,7 +179,9 @@ fill 0.5;
 
   .cta-section {
     padding: 1.25rem !important;
-    width: 92vw !important;
+    left: 5%;
+    right: 5%;
+    width: auto !important;
   }
 } 
 
