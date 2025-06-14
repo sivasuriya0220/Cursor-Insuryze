@@ -115,9 +115,6 @@ fill 0.5;
 }
 
 @media (max-width: 991.98px) {
-  .innovation-section .row {
-    text-align: center;
-  }
   .innovation-section .col-lg-6 {
     margin-bottom: 2rem;
   }
