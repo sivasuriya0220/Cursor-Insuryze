@@ -26,6 +26,13 @@
   .navbar-nav {
     gap: 0 !important;
   }
+  .navbar-toggler {
+    border: none !important; /* Removes the default border */
+    box-shadow: none !important; /* Removes any shadow */
+  } 
+  .navbar-toggler-icon {
+    color: #000000 !important; /* Change to your preferred color */
+  }
   .navbar-nav .nav-link {
     padding-left: 0.75rem;
     padding-right: 0.75rem;
