@@ -181,7 +181,7 @@ fill 0.5;
     padding: 1.25rem !important;
     left: 5%;
     right: 5%;
-    bottom: -50%;
+    bottom: 0%;
     width: auto !important;
   }
 } 
