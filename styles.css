@@ -81,6 +81,8 @@ fill 1;
 .cta-section {
   padding: 3.75rem;
   position: absolute;
+  left: 10%;
+  right: 10%;
   bottom: -25%;
   width: 80vw;
   max-width: 1200px;
@@ -138,12 +140,6 @@ fill 1;
     /* height: 100vh; */
     align-content: end;
     padding: 1.25rem 1.25rem !important;
-  }
-}
-
-@media (min-width: 768px) {
-  .flex-md-row {
-      flex-direction: unset !important;
   }
 }
 
